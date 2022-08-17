@@ -1,0 +1,2 @@
+annotations/gtsdb_train.record filter=lfs diff=lfs merge=lfs -text
+annotations/gtsdb_validation.record filter=lfs diff=lfs merge=lfs -text
